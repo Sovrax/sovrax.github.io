@@ -87,6 +87,10 @@ body {
   text-align: center;
 }
 
+.user-image img {
+  border-radius: 8px;
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
@@ -152,6 +156,11 @@ body {
 .project-image {
   margin: 0 0 24px;
   text-align: center;
+ 
+}
+
+.project-image img {
+  border-radius: 8px;
 }
 
 .projects p {
@@ -160,6 +169,7 @@ body {
 
 .button {
   padding: 6px 20px;
+  margin-bottom: 40px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
