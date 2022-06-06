@@ -6,7 +6,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/hero-bg.png");
   background-repeat: no-repeat;
   background-position-y: top;
   background-position-x: calc(50vw + 16px);
